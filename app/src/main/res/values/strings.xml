@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework8</string>
+    <string name="send">Send Message</string>
+    <string name="title_activity_receive_message">ReceiveMessageActivity</string>
+    <string name="hello_world">Hello Square World!</string>
+    <string name="chooser">Choose This</string>
+</resources>
